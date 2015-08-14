@@ -1,0 +1,289 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fu",
+				"function"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"stemmer",
+				"stemmer_jawaban_mhs"
+			],
+			[
+				"ste",
+				"stemmer_jawaban"
+			],
+			[
+				"stop",
+				"stopword_jawaban_mhs"
+			],
+			[
+				"jawa",
+				"jawaban_dosen"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "push",
+		"selected_items":
+		[
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"g",
+				"Git: Init"
+			],
+			[
+				"gi",
+				"Git: Init"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Channel"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"a",
+				"AlignTab"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/mom"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/mom/application/controllers/auth.php",
+		"/C/xampp/htdocs/mom/application/views/auth/login.php",
+		"/C/xampp/htdocs/mom/application/config/config.php",
+		"/C/xampp/htdocs/MOM/.htaccess",
+		"/C/wamp/www/MOM/application/config/config.php",
+		"/C/wamp/www/MOM/.htaccess",
+		"/C/xampp/php/php.ini",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/xampp/htdocs/MOM/application/config/config.php",
+		"/D/xampp/htdocs/MOM/application/config/config.php",
+		"/C/xampp/htdocs/komoditas/application/config/config.php",
+		"/C/xampp/htdocs/komoditas/.htaccess",
+		"/C/xampp/htdocs/komoditas/application/controllers/auth.php",
+		"/D/xampp/htdocs/MOM/.htaccess",
+		"/C/wamp/www/MOM/application/controllers/Auth.php",
+		"/C/wamp/www/MOM/application/controllers/Welcome.php",
+		"/C/Program Files/PremiumSoft/Navicat Premium/license_file",
+		"/C/wamp/www/MOM/commit",
+		"/C/Users/janua/AppData/Local/Temp/scp11126/home/belajar/release/application/views/dosen/detail_jawaban_mahasiswa.php",
+		"/C/Users/janua/AppData/Local/Temp/scp39354/home/belajar/release/application/controllers/admin.php",
+		"/C/Users/janua/AppData/Local/Temp/scp40626/home/belajar/release/library/cosineSimilarity.php",
+		"/C/Users/janua/AppData/Local/Temp/scp44711/home/belajar/release/application/views/dosen/detail_jawaban_mahasiswa.php",
+		"/C/Users/janua/AppData/Local/Temp/scp44389/home/belajar/release/application/views/dosen/detail_jawaban_mahasiswa.php",
+		"/C/Users/janua/AppData/Local/Temp/scp46490/home/belajar/release/application/views/dosen/detail_jawaban_mahasiswa.php",
+		"/C/Users/janua/AppData/Local/Temp/scp01728/home/belajar/release/application/views/dosen/point_matkul.php",
+		"/C/Users/janua/AppData/Local/Temp/scp01300/home/belajar/release/application/views/dosen/detail_jawaban_mahasiswa.php",
+		"/C/Users/janua/AppData/Local/Temp/scp16336/home/belajar/release/application/views/dosen/detail_jawaban_mahasiswa.php",
+		"/C/Users/janua/AppData/Local/Temp/scp47230/home/belajar/release/application/views/dosen/detail_jawaban_mahasiswa.php",
+		"/C/Users/janua/Documents/rarreg.php",
+		"/C/Users/janua/AppData/Local/Temp/scp56132/home/belajar/public_html/application/controllers/admin.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/janua/AppData/Local/Temp/scp18053/home/belajar/release/application/views/dosen/detail_jawaban_mahasiswa.php",
+		"/C/wamp/www/kuliahbersama/index.php",
+		"/C/Users/janua/AppData/Local/Temp/scp23898/home/belajar/public_html/application/controllers/dosen.php",
+		"/C/Users/janua/AppData/Local/Temp/scp30596/home/belajar/release/application/controllers/dosen.php",
+		"/C/Users/janua/AppData/Local/Temp/scp35749/home/belajar/release/application/controllers/dosen.php",
+		"/C/wamp/www/kuliahbersama/dist/css/style.css",
+		"/C/Users/janua/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/janua/AppData/Roaming/Sublime Text 3/Packages/User/AlignTab.sublime-settings",
+		"/C/Users/janua/AppData/Local/Temp/scp37487/home/belajar/release/application/views/dosen/detail_jawaban_mahasiswa.php",
+		"/C/Users/janua/AppData/Local/Temp/scp43125/home/belajar/release/application/views/dosen/detail_jawaban_mahasiswa.php",
+		"/C/Users/janua/AppData/Local/Temp/scp43409/home/belajar/release/application/views/dosen/detail_jawaban_mahasiswa.php",
+		"/C/Users/janua/AppData/Local/Temp/scp43202/home/belajar/release/application/views/dosen/detail_jawaban_mahasiswa.php",
+		"/C/Users/janua/AppData/Local/Temp/scp47312/home/belajar/release/application/views/dosen/detail_jawaban_mahasiswa.php",
+		"/C/Users/janua/AppData/Local/Temp/scp59029/home/belajar/public_html/application/views/dosen/point_mahasiswa.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"uri",
+			"mod_rew",
+			"rewrite"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 122.0
+	},
+	"pinned_build_system": "",
+	"project": "mom.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
